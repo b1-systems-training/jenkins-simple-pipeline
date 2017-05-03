@@ -1,2 +1,4 @@
 # jenkins-simple-pipeline
-A simple pipeline example for Jenkins
+
+This repository may be used for a simple Freestyle project example or a pipeline.
+
