@@ -2,7 +2,7 @@
 
 if [ "$#" -lt 1 ]; then
 	echo usage $0 String
-	exit 1
+	exit 0
 fi
 
 echo $@
